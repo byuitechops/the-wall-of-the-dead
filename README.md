@@ -1,4 +1,4 @@
-# Welcome to the Wall of the Dead
+# Welcome to the Wall of the Fallen
 
 This is where the breadcrumb trail of project pass-offs live.
 
