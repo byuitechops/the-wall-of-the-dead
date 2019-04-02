@@ -38,13 +38,13 @@ For example:
 
 ### Project Transition
 - [x] Come up with a list of employees that you think would be capable of taking over your project.
-    - [ ] Reach out to Josh to receive approval.
+    - [X] Reach out to Josh to receive approval.
 
 ### Schedule Exit Interview with Josh and/or Leads
 
 > The main purposes of this meeting is to ensure that all loose ends are tied up, and to provide quality feedback both ways to help improve the office and you as an employee. You can also ask Josh and/or the leads for letters of recommendation. 
 
-- [ ] Send out an outlook meeting invitation to meet with Josh and/or Leads. This meeting must happen on or before the last day of work.
+- [X] Send out an outlook meeting invitation to meet with Josh and/or Leads. This meeting must happen on or before the last day of work.
 
 ## Last day
 
