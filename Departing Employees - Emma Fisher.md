@@ -61,7 +61,7 @@ For example:
 
 ### Project Transition
 - [X] The employee taking over is ready and comfortable to take over the project. He or she clearly understands the requirements and the definition of done for the project.
-- [ ] Finish up your development portion and everything is commented.
+- [X] Finish up your development portion and everything is commented.
 
 -----------------------
 
