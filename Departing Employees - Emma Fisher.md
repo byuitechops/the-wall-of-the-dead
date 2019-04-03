@@ -41,7 +41,7 @@ For example:
     - [ ] Full Design Document
 
 ### Project Documentation
-- [ ] README.md properly filled out for each project worked on.
+- [X] README.md properly filled out for each project worked on.
 - [X] Projects worked on and currently working on are on the Project Board.
 - [X] All of the projects are sufficiently commented according to the coding guidelines set forth by Josh.
 
