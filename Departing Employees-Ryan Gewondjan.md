@@ -22,11 +22,11 @@ For example:
 - [ ] generator-byui (our yeoman generator)
     - New Developer: Seth Bolander
     - [X] *Approved* Project Capture
-    - [ ] Key Component Document
+    - [X] Key Component Document
     - [ ] Full Design Document
     - [X] Updated Project Card ownership to new developer on Project Board
     - [X] README up to date
-    - [ ] Code commented
+    - [X] Code commented
     - [X] Upcoming todos defined for Seth
 - [ ] canvas-link-validator-runner
     - New Developer: Cameron Thompson (also Aaron Shiffler)
@@ -39,7 +39,7 @@ For example:
     - [X] Error handling added (at least if there is not a course Id added)
 - [ ] for-the-strength-of-developers (handbook writing)
     - New Developer: The leads and appointed team members
-    - [ ] Update the project-task-force board on github.
+    - [X] Update the project-task-force board on github.
     - [X] Make sure links in the handbook work
     - [X] README up to date
 
@@ -56,7 +56,7 @@ For example:
 
 > The main purposes of this meeting is to ensure that all loose ends are tied up, and to provide quality feedback both ways to help improve the office and you as an employee. You can also ask Josh and/or the leads for letters of recommendation. 
 
-- [ ] Send out an outlook meeting invitation to meet with Josh and/or Leads. This meeting must happen on or before the last day of work.
+- [X] Send out an outlook meeting invitation to meet with Josh and/or Leads. This meeting must happen on or before the last day of work.
 
 ## Last day
 
