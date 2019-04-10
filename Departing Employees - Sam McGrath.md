@@ -19,17 +19,17 @@ For example:
 
 *Important Note:* Some projects may require you to make a quick demo showing the project. Insert link here.
 
-- [ ] [canvas-cross-list](https://github.com/byuitechops/canvas-cross-list)
+- [X] [canvas-cross-list](https://github.com/byuitechops/canvas-cross-list)
     - New Developer: Aaron Shiffler
     - [ ] *Approved* Project Capture
     - [ ] Key Component Document
     - [X] Full Design Document
     - [X] Updated Project Card ownership to new developer on Project Board
-- [ ] [firebase-database-exporter](https://github.com/byuitechops/firebase-database-exporter)
+- [X] [firebase-database-exporter](https://github.com/byuitechops/firebase-database-exporter)
     - New Developer: Levi Stum
     - Maintenance Mode
     - [X] Updated Project Card ownership to new developer on Project Board
-- [ ] [update-course-images](https://github.com/byuitechops/update-course-images)
+- [X] [update-course-images](https://github.com/byuitechops/update-course-images)
     - New Developer: Levi Stum
     - Maintenance Mode
     - [X] Updated Project Card ownership to new developer on Project Board
