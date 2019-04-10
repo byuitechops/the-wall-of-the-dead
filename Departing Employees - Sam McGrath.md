@@ -24,12 +24,15 @@ For example:
     - [ ] *Approved* Project Capture
     - [ ] Key Component Document
     - [X] Full Design Document
+    - [X] Updated Project Card ownership to new developer on Project Board
 - [ ] [firebase-database-exporter](https://github.com/byuitechops/firebase-database-exporter)
     - New Developer: Levi Stum
     - Maintenance Mode
+    - [X] Updated Project Card ownership to new developer on Project Board
 - [ ] [update-course-images](https://github.com/byuitechops/update-course-images)
     - New Developer: Levi Stum
     - Maintenance Mode
+    - [X] Updated Project Card ownership to new developer on Project Board
 
 ### Project Documentation
 - [x] README.md properly filled out for each project worked on.
@@ -51,8 +54,8 @@ For example:
 ### Required documents for all projects assigned on or after March 1, 2019
 
 ### Project Transition
-- [ ] The employee taking over is ready and comfortable to take over the project. He or she clearly understands the requirements and the definition of done for the project.
-- [ ] Finish up your development portion and everything is commented.
+- [X] The employee taking over is ready and comfortable to take over the project. He or she clearly understands the requirements and the definition of done for the project.
+- [X] Finish up your development portion and everything is commented.
 
 -----------------------
 
