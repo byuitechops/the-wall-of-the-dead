@@ -21,13 +21,13 @@ For example:
 
 - [ ] generator-byui (our yeoman generator)
     - New Developer: Seth Bolander
-    - [ ] *Approved* Project Capture
+    - [X] *Approved* Project Capture
     - [ ] Key Component Document
     - [ ] Full Design Document
     - [X] Updated Project Card ownership to new developer on Project Board
-    - [ ] README up to date
+    - [X] README up to date
     - [ ] Code commented
-    - [ ] Upcoming todos defined for Seth
+    - [X] Upcoming todos defined for Seth
 - [ ] canvas-link-validator-runner
     - New Developer: Cameron Thompson (also Aaron Shiffler)
     - [X] *Approved* Project Capture
